@@ -3,7 +3,7 @@ body  {
   background-image: url("BG.png");
   background-color: #cccccc;
   background-repeat: no-repeat;
-  background-size: 1290px 580px;
+  background-size: 100%;
 }
 
 h1{
